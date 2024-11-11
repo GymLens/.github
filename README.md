@@ -14,5 +14,5 @@ In Indonesia, a significant portion of the population remains unaware of the imp
 
 ## Project Architecture
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bangkit-2023-Capstone-CH2-PS307/.github/main/profile/assets/cloud-architecture.png" alt="Cloud Architecture" style="width: 100%;">
+  <img src="/assets/cloud-architecture.png" alt="Cloud Architecture" style="width: 100%;">
 </div>
