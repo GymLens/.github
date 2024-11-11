@@ -1,4 +1,4 @@
-# 
+# GymLens (Gym Equipment Classification)
 
 ## Executive Summary/Abstract
 In Indonesia, a significant portion of the population remains unaware of the importance of regular physical activity for maintaining health. According to a study by Stanford University reported in CNN Indonesia (2022), Indonesia ranks first in malas gerak (‘mager’—lazy to exercise), with a concerning rise in obesity prevalence—21.8% in 2018, up from 14.8% in 2013 (Riskesdas, 2018). The negative health impacts of that lifestyle include weight gain and increased risk of cardiovascular diseases. However, there are factors that influence someone to be mager, one of which is not knowing how to use gym equipment. To tackle this issue, our research question is: How can we improve awareness and understanding of gym equipment classifications to facilitate effective and safe workouts for Indonesians? We aim to develop an app that categorizes gym equipment, offering detailed descriptions and proper usage guidance. By empowering individuals with accessible resources, we hope to promote informed fitness choices and foster healthier lifestyles in Indonesia.
@@ -14,5 +14,5 @@ In Indonesia, a significant portion of the population remains unaware of the imp
 
 ## Project Architecture
 <div align="center">
-  <img src="/assets/cloud-architecture.png" alt="Cloud Architecture" style="width: 100%;">
+  <img src="/profile/assets/cloud-architecture.png" alt="Cloud Architecture" style="width: 100%;">
 </div>
