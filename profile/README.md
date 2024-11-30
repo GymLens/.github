@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/profile/assets/logo.png" alt="Logo GymLens" style="width: 20%;">
+  <img src="/profile/assets/logo.png" alt="Logo GymLens" style="width: 40%;">
   <p>Know Your Equipment, Own Your Workout</p>
 </div>
 
@@ -10,10 +10,10 @@ A major reason for this is the lack of knowledge about how to use gym equipment 
 
 GymLens is a mobile app that categorizes gym equipment and provides detailed usage guides 📱📚. It helps beginners feel confident and informed in the gym, empowering them to lead healthier lifestyles 🌱. By giving users the right tools and knowledge, we hope to motivate more people to be active and improve public health. 🏅✨
 
-# Team Member - CH2-PS307
+# Team Member - C242-PS284
 <div align="center">
   
-| Bangkit ID       |           Name            |   Learning Path    | Status |
+| **Bangkit ID**       |           **Name**            |   **Learning Path**    | **Status** |
 |:----------------:|---------------------------|:------------------:|:---------------------------------|
 | M008B4KY3902      | Rizal Pangestu  | Machine Learning   | Active |
 | M008B4KY1059      | Devan Al Fauzi   | Machine Learning   | Active |
