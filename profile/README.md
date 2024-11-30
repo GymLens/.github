@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/profile/assets/logo.png" alt="Logo GymLens" style="width: 40%;">
+  <img src="/profile/assets/logo.png" alt="Logo GymLens" style="width: 30%;">
   <p>Know Your Equipment, Own Your Workout</p>
 </div>
 
@@ -13,15 +13,15 @@ GymLens is a mobile app that categorizes gym equipment and provides detailed usa
 # Team Member - C242-PS284
 <div align="center">
   
-| **Bangkit ID**       |           **Name**            |   **Learning Path**    | **Status** |
-|:----------------:|---------------------------|:------------------:|:---------------------------------|
-| M008B4KY3902      | Rizal Pangestu  | Machine Learning   | Active |
-| M008B4KY1059      | Devan Al Fauzi   | Machine Learning   | Active |
-| M008B4KY2604      | Muflikhul Ammar          | Machine Learning    | Active |
-| A315B4KX3513      | Putri Amelia Az-Zahrah     | Mobile Development    | Active |
-| A315B4KX4235      | Surya Asmara Putri             | Mobile Development | Active |
-| C008B4KY3027      | Muhammad Rayyan Dzaki Santosa              | Cloud Computing | Active |
-| C008B4KY1752      | Haydar Amru Revanda | Cloud Computing  | Active |
+| **Bangkit ID**    |           **Name**             |   **Learning Path**   | **Status** |
+|:-----------------:|--------------------------------|:---------------------:|:-----------|
+| M008B4KY3902      | Rizal Pangestu                 | Machine Learning      |   Active   |
+| M008B4KY1059      | Devan Al Fauzi                 | Machine Learning      |   Active   |
+| M008B4KY2604      | Muflikhul Ammar                | Machine Learning      |   Active   |
+| A315B4KX3513      | Putri Amelia Az-Zahrah         | Mobile Development    |   Active   |
+| A315B4KX4235      | Surya Asmara Putri             | Mobile Development    |   Active   |
+| C008B4KY3027      | Muhammad Rayyan Dzaki Santosa  | Cloud Computing       |   Active   |
+| C008B4KY1752      | Haydar Amru Revanda            | Cloud Computing       |   Active   |
 
 </div>
 
