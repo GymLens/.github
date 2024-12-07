@@ -4,16 +4,16 @@
 </div>
 
 # About this project
-In Indonesia, many people are unaware of the importance of regular exercise 🏃‍♂️ for maintaining health. According to Stanford University (CNN Indonesia, 2022), Indonesia ranks first in malas gerak (‘_mager_’—lazy to exercise) 😴, with rising obesity rates 📊—21.8% in 2018 (up from 14.8% in 2013). This leads to weight gain ⚖️ and an increased risk of heart disease ❤️‍🩹.
+In Indonesia, many people are unaware of the importance of regular exercise for maintaining health. According to Stanford University (CNN Indonesia, 2022), Indonesia ranks first in malas gerak (‘_mager_’—lazy to exercise) 😴, with rising obesity rates 📊—21.8% in 2018 (up from 14.8% in 2013). This leads to weight gain and an increased risk of heart disease ❤️‍🩹.
 
 A major reason for this is the lack of knowledge about how to use gym equipment 🏋️‍♂️. Our solution? GymLens! 🎯 We aim to improve understanding of gym equipment and safe exercise techniques, making fitness more accessible.
 
-GymLens is a mobile app that categorizes gym equipment and provides detailed usage guides 📱📚. It helps beginners feel confident and informed in the gym, empowering them to lead healthier lifestyles 🌱. By giving users the right tools and knowledge, we hope to motivate more people to be active and improve public health. 🏅✨
+GymLens is a mobile app that categorizes gym equipment and provides detailed usage guides 📱📚. It helps beginners feel confident and informed in the gym, empowering them to lead healthier lifestyles 🌱. By giving users the right tools and knowledge, we hope to motivate more people to be active and improve public health 🏅✨.
 
 # Team Member - C242-PS284
 <div align="center">
   
-| **Bangkit ID**    |           **Name**             |   **Learning Path**   |   **Linkedin Profile**   | **Github** | **Status** |
+| **Bangkit ID**    |           **Name**             |   **Learning Path**   |   **Linkedin Profile**   | **GitHub** | **Status** |
 |:-----------------:|--------------------------------|:---------------------:|:------------------------:|:----------:|:----------:|
 | M008B4KY3902      | Rizal Pangestu                 | Machine Learning      |[LinkedIn](https://www.linkedin.com/in/rizal-pangestu-7b2906229/)|   [rizalpangestu1](https://github.com/rizalpangestu1)   |   Active   |
 | M008B4KY1059      | Devan Al Fauzi                 | Machine Learning      |[LinkedIn](https://www.linkedin.com/in/devan-al-fauzi/)|   [kang-jo](https://github.com/kang-jo)   |   Active   |
@@ -29,6 +29,9 @@ GymLens is a mobile app that categorizes gym equipment and provides detailed usa
 <div align="center">
   <img src="https://raw.githubusercontent.com/GymLens/.github/main/profile/assets/project-architecture.png" alt="Cloud Architecture" style="width: 100%;">
 </div>
+
+# API Documentation
+We published our API documentation using Postman, you can view it [here](https://documenter.getpostman.com/view/40111497/2sAYBYeVPL).
 
 # Project Documentation
 Learning Path Documentation
