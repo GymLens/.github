@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/profile/assets/logo.png" alt="Logo GymLens" style="width: 30%;">
+  <img src="https://raw.githubusercontent.com/GymLens/.github/main/profile/assets/gym-lens-banner.png" alt="Logo GymLens" style="width: 30%;">
   <p>Know Your Equipment, Own Your Workout</p>
 </div>
 
@@ -13,21 +13,21 @@ GymLens is a mobile app that categorizes gym equipment and provides detailed usa
 # Team Member - C242-PS284
 <div align="center">
   
-| **Bangkit ID**    |           **Name**             |   **Learning Path**   | **Status** |
-|:-----------------:|--------------------------------|:---------------------:|:-----------|
-| M008B4KY3902      | Rizal Pangestu                 | Machine Learning      |   Active   |
-| M008B4KY1059      | Devan Al Fauzi                 | Machine Learning      |   Active   |
-| M008B4KY2604      | Muflikhul Ammar                | Machine Learning      |   Active   |
-| A315B4KX3513      | Putri Amelia Az-Zahrah         | Mobile Development    |   Active   |
-| A315B4KX4235      | Surya Asmara Putri             | Mobile Development    |   Active   |
-| C008B4KY3027      | Muhammad Rayyan Dzaki Santosa  | Cloud Computing       |   Active   |
-| C008B4KY1752      | Haydar Amru Revanda            | Cloud Computing       |   Active   |
+| **Bangkit ID**    |           **Name**             |   **Learning Path**   |   **Linkedin Profile**   | **Github** | **Status** |
+|:-----------------:|--------------------------------|:---------------------:|:------------------------:|:----------:|:----------:|
+| M008B4KY3902      | Rizal Pangestu                 | Machine Learning      |[LinkedIn](https://www.linkedin.com/in/rizal-pangestu-7b2906229/)|   [rizalpangestu1](https://github.com/rizalpangestu1)   |   Active   |
+| M008B4KY1059      | Devan Al Fauzi                 | Machine Learning      |[LinkedIn](https://www.linkedin.com/in/devan-al-fauzi/)|   [kang-jo](https://github.com/kang-jo)   |   Active   |
+| M008B4KY2604      | Muflikhul Ammar                | Machine Learning      |[LinkedIn](https://www.linkedin.com/in/muflikhulammar/)|   [ammar2350](https://github.com/ammar2350)   |   Active   |
+| A315B4KX3513      | Putri Amelia Az-Zahrah         | Mobile Development    |[LinkedIn](https://www.linkedin.com/in/putri-amelia-az-zahrah-161b76255/)|   [putriamelia16](https://github.com/putriamelia16)   |   Active   |
+| A315B4KX4235      | Surya Asmara Putri             | Mobile Development    |[LinkedIn](https://www.linkedin.com/in/surya-asmara-putri-056602311/)|   [rarasuryap](https://github.com/rarasuryap)   |   Active   |
+| C008B4KY3027      | Muhammad Rayyan Dzaki Santosa  | Cloud Computing       |[LinkedIn](https://www.linkedin.com/in/muhammad-rayyan-dzaki-s-2378141aa/)|   [rayyandzaki](https://github.com/rayyandzaki)   |   Active   |
+| C008B4KY1752      | Haydar Amru Revanda            | Cloud Computing       |[LinkedIn](https://www.linkedin.com/in/haydaramru/)|   [haydaramru](https://github.com/haydaramru/)   |   Active   |
 
 </div>
 
 # Project Architecture
 <div align="center">
-  <img src="/profile/assets/project-architecture.png" alt="Cloud Architecture" style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/GymLens/.github/main/profile/assets/project-architecture.png" alt="Cloud Architecture" style="width: 100%;">
 </div>
 
 # Project Documentation
